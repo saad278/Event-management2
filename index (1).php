@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/mystyle.css">
+    <script src="js/bootstrap.js"></script>
+    <script src="https://kit.fontawesome.com/d4dda18e1f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm bg-light navbar-light my-1">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="admin_sign_up.php">sign up as admin</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="participant_sign_up.php">sign up as participant</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="admin_login.php">login as admin</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="participant_login.php">login as participant</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="sign_up.php">guest</a>
+          </li>
+        </ul>
+      </nav> 
+      <h5>welcome to فعالياتي application where you can make your own event</h5>
+</body>
+</html>
